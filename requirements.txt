@@ -1,0 +1,5 @@
+easyocr
+matplotlib
+torch
+torchvision
+ultralytics
